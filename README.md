@@ -1,2 +1,3 @@
-# Book RestAPi
- A restful api to store data on books
+# Book APi
+
+Simple API built with django rest framework and django. 
